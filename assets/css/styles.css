@@ -1,2 +1,9 @@
 
 /* css */
+.image-row {
+    display: flex;
+    justify-content: center;
+}
+
+
+
